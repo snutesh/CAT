@@ -3,9 +3,9 @@ if anti-virus is installed and auto-update is enabled
 if bios password is set or not
 if auto-lock and sleep is active for prolonged idle (5 minutes)
 if any folder is configured as shared (should not be configured)
-wireless feature should be disabled
-disable USB access 
+if wireless feature is disabled
+if USB access is disabled
 peer-to-peer s/w should not be installed eg. Torrent
-system logs should be enabled
-windows firewall should be enabled
+if system logs are enabled
+if windows firewall is enabled
 In one click or one command log should be collected 
